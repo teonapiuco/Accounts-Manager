@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1770334274419",
+    "platform": "Google",
+    "name": "new",
+    "email": "new@gmail.com",
+    "status": "Active"
+  },
+  {
+    "id": "1770576948504",
+    "platform": "LinkedIn",
+    "name": "testname",
+    "email": "test@gmail.com",
+    "status": "Inactive"
+  },
+  {
+    "id": "1770577463714",
+    "platform": "GitHub",
+    "name": "newacc",
+    "email": "newacc@gmail.com",
+    "status": "Active"
+  },
+  {
+    "id": "1770577890131",
+    "platform": "LinkedIn",
+    "name": "test",
+    "email": "test@gmail.com",
+    "status": "Inactive"
+  },
+  {
+    "id": "1770914087985",
+    "platform": "Instagram",
+    "name": "testacc",
+    "email": "testacc@gmail.com",
+    "status": "Active"
+  },
+  {
+    "id": "1770914109777",
+    "platform": "newplatform",
+    "name": "test",
+    "email": "test@gmail.com",
+    "status": "Active"
+  }
+]
